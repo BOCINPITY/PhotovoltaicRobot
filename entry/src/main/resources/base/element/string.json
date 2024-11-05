@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "光伏安装机器人"
+    },
+    {
+      "name": "index_param_setting",
+      "value": "参数设置"
+    },
+    {
+      "name": "index_work_mode",
+      "value": "作业模式"
+    },
+    {
+      "name": "index_debug",
+      "value": "调试界面"
+    },
+    {
+      "name": "index_walk_mode",
+      "value": "行走模式"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "光伏安装机器人"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "module description"
+    },
+    {
+      "name": "login_admin",
+      "value": "管理员登录"
+    },
+    {
+      "name": "login_operator",
+      "value": "操作员登录"
+    },
+    {
+      "name": "login_username",
+      "value": "用户名"
+    },
+    {
+      "name": "login_pwd",
+      "value": "密码"
+    },
+    {
+      "name": "please_input_your_username",
+      "value": "请输入您的用户名"
+    },
+    {
+      "name": "please_input_your_password",
+      "value": "请输入您的密码"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PhotovoltaicRobot"
+    },
+    {
+      "name": "index_param_setting",
+      "value": "param setting"
+    },
+    {
+      "name": "index_work_mode",
+      "value": "work mode"
+    },
+    {
+      "name": "index_debug",
+      "value": "debug"
+    },
+    {
+      "name": "index_walk_mode",
+      "value": "walk mode"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "PhotovoltaicRobot"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "module description"
+    },
+    {
+      "name": "login_admin",
+      "value": "admin"
+    },
+    {
+      "name": "login_operator",
+      "value": "operator"
+    },
+    {
+      "name": "login_username",
+      "value": "username"
+    },
+    {
+      "name": "login_pwd",
+      "value": "password"
+    },
+    {
+      "name": "please_input_your_username",
+      "value": "please input username"
+    },
+    {
+      "name": "please_input_your_password",
+      "value": "please input password"
+    }
+  ]
+}
